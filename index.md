@@ -3,8 +3,6 @@ layout: home
 title: StringLab
 ---
 
-# StringLab
-
 **Measure your badminton racket string tension — quickly and accurately.**
 
 StringLab is an iOS and macOS app that lets you measure the string tension of your badminton racket using only your device's microphone. Simply pluck the string, and StringLab calculates the tension in kg or lbs within seconds.
