@@ -6,11 +6,6 @@ lang: en
 minima:
   skin: auto  # auto = hell/dunkel je nach Systemeinstellung
 
-# Autor-Info (wird im Footer angezeigt)
-author:
-  name: Sebastian Nasick
-  email: info-stringlab@gmx.net
-
 # Keine Navigationslinks nötig — nur eine Seite
 header_pages:
   - privacy.md

@@ -80,7 +80,7 @@ Since StringLab does not store any personal data on external servers, all data i
 - **Deletion:** All app data is deleted when you uninstall the app.
 - **Access:** Since no data is processed outside your device, there is no server-side data to provide access to.
 
-If you are located in the European Union, you have additional rights under the GDPR (e.g. right to information, correction, deletion). Please [contact me](#8-contact) if you wish to exercise these rights.
+If you are located in the European Union, you have additional rights under the GDPR (e.g. right to information, correction, deletion).
 
 ---
 
@@ -93,10 +93,3 @@ StringLab is not directed at children under the age of 13. No personal data from
 ## 9. Changes to This Privacy Policy
 
 If the app's functionality changes in a privacy-relevant way, this policy will be updated. The current version is always available at this URL.
-
----
-
-## 10. Contact
-
-For questions regarding data privacy, please contact:  
-**info-stringlab@gmx.net**
